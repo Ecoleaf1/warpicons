@@ -1,0 +1,28 @@
+UI Title: "&6» &bWarps"
+Icon Material: "STICK"
+Subcommand: "default"
+Required Permission: ""
+
+Warps:
+  History:
+    Display Name: "&bWarp 1"
+    CustomModelData: 1
+    Location:
+      ==: org.bukkit.Location
+      world: world
+      x: 0.0
+      y: 69.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+  Warp 2:
+    Display Name: "Warp 2"
+    CustomModelData: 1
+    Location:
+      ==: org.bukkit.Location
+      world: world
+      x: 20.0
+      y: 69.0
+      z: 20.0
+      pitch: 0.0
+      yaw: 0.0

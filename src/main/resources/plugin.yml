@@ -1,0 +1,11 @@
+main: net.wigoftime.warpicons.Main
+name: Warpicons
+description: Warps plugin that displays custom icons by using resourcepacks
+version: 0.1
+api-version: 1.13
+
+commands:
+  warp:
+    description: Teleport to other places!
+    usage: /warp {category}
+    permission: warpicons.command.warp
